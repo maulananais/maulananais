@@ -33,5 +33,4 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/maulananais)](https://github.com/maulananais)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/unknownlans)](https://instagram.com/unknownlans)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@maulananais5298)](https://www.youtube.com/@maulananais5298)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/smlkm1)](https://t.me/smlkm1)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maulana-nais-1706642a9/)](https://www.linkedin.com/in/maulana-nais-1706642a9/)
